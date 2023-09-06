@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Node ###
+/auth-api/node_modules/
+/auth-api/yarn.lock
