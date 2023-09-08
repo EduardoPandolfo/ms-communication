@@ -35,3 +35,6 @@ build/
 ### Node ###
 /auth-api/node_modules/
 /auth-api/yarn.lock
+
+/sales-api/node_modules/
+/sales-api/yarn.lock
